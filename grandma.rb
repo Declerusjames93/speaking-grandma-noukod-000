@@ -9,7 +9,7 @@ def speak_to_grandma(phrase = " ")
 
     # NO, NOT SINCE 1938!
     else phrase == "I LOVE YOU GRANDMA!"
-      return "I LOVE YOU TOO PUMPKIN!"
+      puts "I LOVE YOU TOO PUMPKIN!"
 
     end
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
