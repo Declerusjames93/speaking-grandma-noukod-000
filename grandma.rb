@@ -1,6 +1,6 @@
 def speak_to_grandma(phrase = " ")
 
-    if  phrase == phrase.capitalize
+    if  phrase.upcase == I LOVE YOU GRANDMA!""
       return "HUH?! SPEAK UP, SONNY!"
 
     elsif phrase == phrase.upcase
