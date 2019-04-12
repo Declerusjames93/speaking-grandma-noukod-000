@@ -10,7 +10,7 @@ def speak_to_grandma(phrase = " ")
       return "I LOVE YOU TOO PUMPKIN!"
     end
 
-    if  phrase == phrase.downcase 
+    if  phrase == phrase.downcase
       return "HUH?! SPEAK UP, SONNY!"
 
     else phrase == phrase.upcase
